@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="synthetic.svg">
+   sodipodi:docname="synthetic.svg"
+   inkscape:export-filename="/nfs/home/azonenberg/Documents/local/programming/netlist-tools/testdata/01_synthetic_gates/ndiff.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -28,7 +31,7 @@
      inkscape:cx="219.14791"
      inkscape:cy="-36.425616"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer8"
      showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="992"
@@ -65,7 +68,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Ndiff"
-     transform="translate(-20,-12.362183)">
+     transform="translate(-20,-12.362183)"
+     style="display:inline">
     <path
        style="fill:#008000;stroke:none"
        d="m 70,62.362183 0,30 20,0 0,-30 z"
@@ -111,7 +115,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Pdiff"
-     transform="translate(-20,-12.362183)">
+     transform="translate(-20,-12.362183)"
+     style="display:inline">
     <path
        style="fill:#808000;stroke:none"
        d="m 50,62.362183 0,30 20,0 0,-30 z"
@@ -157,7 +162,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Poly"
-     style="opacity:1"
+     style="display:inline"
      transform="translate(-20,-12.362183)">
     <path
        style="fill:#ff0000;stroke:none"
@@ -184,7 +189,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="Contact"
-     style="opacity:1"
+     style="display:inline"
      transform="translate(-20,-12.362183)">
     <path
        style="fill:#000000;stroke:none"
@@ -256,7 +261,7 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="M1"
-     style="opacity:1"
+     style="display:inline"
      transform="translate(-20,-12.362183)">
     <path
        style="fill:#0000ff;stroke:none"
@@ -325,7 +330,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer8"
-     inkscape:label="M1-M2 via">
+     inkscape:label="M1-M2 via"
+     style="display:inline">
     <path
        style="fill:#000000;stroke:none"
        d="m 10,90 0,20 20,0 0,-20 z"
@@ -346,7 +352,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="M2"
-     transform="translate(-20,-12.362183)">
+     transform="translate(-20,-12.362183)"
+     style="display:inline">
     <path
        style="fill:#00ffff;stroke:none"
        d="m 10,90 130,0 0,20 -130,0 z"
